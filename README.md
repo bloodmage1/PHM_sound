@@ -24,11 +24,11 @@
 
 ## Mel-Spectogram
 
-![Example instance](https://github.com/bloodmage1/protein-protein/blob/main/Change_of_energy.png)
+![Example instance](https://github.com/bloodmage1/PHM_sound/blob/main/mel_filter1.png)
 
 달팽이관의 특성을 고려해서 낮은 주파수에서는 작은 삼각형의 필터를 가지고, 고주파 대역으로 갈수록 넓은 삼각형의 필터를 가진다고 생각하면 된다.
 
-![Example instance](https://github.com/bloodmage1/protein-protein/blob/main/Change_of_energy.png)
+![Example instance](https://github.com/bloodmage1/PHM_sound/blob/main/mel_filter2.png)
 
 그래서 위와 같은 삼각형 필터 n개를 모두 적용한 필터를 멜 필터 뱅크라고 부른다. 그래서 멜 스펙토그램이라는 특징이 만들어 진다.
 
