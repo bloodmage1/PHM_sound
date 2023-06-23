@@ -16,7 +16,7 @@
 
 각 관측치를 고립시키는 것은 이상치가 정상 데이터보다 쉽다.
 
-![Example instance](https://github.com/bloodmage1/protein-protein/blob/main/Change_of_energy.png)
+![Example instance](https://github.com/bloodmage1/PHM_sound/blob/main/Extract_Features/IFOREST.png)
 
 따라서 정상데이터를 분리하는 경우 약 7번의 split이 필요하고 이상치를 분리하는 경우에는 약 3번의 split이 필요하다. 정상 데이터는 tree의 terminal node와 근접하며, 경로길이가 크고, 이상치는 tree의 root node와 근접하며 경로길이가 작다.
 

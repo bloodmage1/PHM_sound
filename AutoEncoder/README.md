@@ -10,7 +10,7 @@
 
 # Auto-Encoder
 
-![Example instance](https://github.com/bloodmage1/protein-protein/blob/main/Energy_curve.png)
+![Example instance](https://github.com/bloodmage1/PHM_sound/blob/main/AutoEncoder/lstm_autoencoder.jpg)
 
 대부분의 도메인에서 이상(anomaly) 데이터는 충분하지 않다. 이러한 문제를 데이터 불균형이라고 하는데, 이렇게 되면 이상데이터들을 명확하게 분류하지 못한다. 10000개의 데이터 중 9999개가 정상이고 남은 1개가 이상데이터일 때, 다 틀렸다고 해도 정확도는 99.99%이기 때문이다
 

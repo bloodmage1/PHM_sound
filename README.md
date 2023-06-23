@@ -32,7 +32,9 @@
 
 그래서 위와 같은 삼각형 필터 n개를 모두 적용한 필터를 멜 필터 뱅크라고 부른다. 그래서 멜 스펙토그램이라는 특징이 만들어 진다.
 
-# librosa.feature.mfcc
+# librosa 모듈의 MFCC 파라미터
+
+[librosa.feature.mfcc](https://librosa.org/doc/latest/index.html)
 
 y: time domain audio signal
 
